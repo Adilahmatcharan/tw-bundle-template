@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-bundle-template",
+        "en": "tw-bundle-template"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "adilah.m@salla.sa",
+    "support_url": "",
+    "repository": "https://github.com/Adilahmatcharan/tw-bundle-template",
+    "components": []
+}
